@@ -5,6 +5,6 @@ public class HelloWorld
 
 	public static void main(String[] args)
 	{
-		System.out.println("Hello world- Eclipse project connected");
+		System.out.println("Hello world- Local Repo101");
 	}
 }
